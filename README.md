@@ -1,4 +1,4 @@
-## Supporting Information
+# Supporting Information
 
 This repository contains supporting information for:<p>
 <u>Matching Glycosyl Donor Reactivity to Sulfonate Leaving Group Ability Permits S<sub>N</sub>2 Glycosylations</u><p>
@@ -10,7 +10,7 @@ This repository contains supporting information for:<p>
 | Directory  | Description |
 | ------------- | ------------- |
 | `SN1/` | files for computing the EIE of glucose cation formation over many conformers |
-| `SN2/` | files for computing the KIE for SN2 glycosylation via bridged transition states |
+| `SN2/` | files for computing the KIE for glycosylations via a concerted mechanism |
 | `theory/` | dependence of transition structure on choice of DFT|
 | `diffuse/` | effect of adding minimal diffuse functions to oxygens near reaction site |
 
